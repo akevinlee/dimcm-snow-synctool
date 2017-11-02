@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.serena:dmnet:${dmcm.version}">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/serena/dmnet/${dmcm.version}/dmnet-${dmcm.version}.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/serena/dmnet/${dmcm.version}/dmnet-${dmcm.version}-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/serena/dmnet/${dmcm.version}/dmnet-${dmcm.version}-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
